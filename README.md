@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🚀 MyApp</h1>
+<h1>🚀 Azure VM Deployment using **Bicep Language** (Step-by-Step)</h1>
 <p><strong>Built with ❤️ by <a href="https://github.com/atulkamble">Atul Kamble</a></strong></p>
 
 <p>
@@ -32,9 +32,6 @@
 <strong>Version 1.0.0</strong> | <strong>Last Updated:</strong> January 2026
 </div>
 
-
-
-## 🚀 Azure VM Deployment using **Bicep Language** (Step-by-Step)
 
 ![Image](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/images/single-vm-diagram.svg)
 
